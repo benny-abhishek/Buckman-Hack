@@ -5,7 +5,7 @@ An Investment Decision Recommendation System
 # NOTE: 
 * To run the app, run command: streamlit run app.py (or) python -m streamlit run app.py from the directory having the file 'app.py'
 * The pages can be navigated through the sidebar in the app.
-* The 'main.py' contains only the backend code. Do run the app.py file or visit the .py files in the 'pages' folder to view the organized code with straamlit.
+* The 'main.py' and 'ml.py' contains only the backend code. So run the app.py file or visit the .py files in the 'pages' folder to view the organized code with straamlit.
 * The images in the readme and documentation are saved using plotly for documentation purpose. [ALL THE OUTPUT SCREENSHOTS from the app are provided in the PPT- "Investment Recommendation System".]
 * The 'Documentation.docx' file has the documentation.
 * Anlysis using PowerBI is done and the .pbix is uploaded. Output screenshots are provided in PPT.
@@ -58,7 +58,7 @@ Chi-Square test is used to find the factor variables contributing to the best in
 
 ![image](https://github.com/benny-abhishek/Buckman-Hack/assets/121245162/8c14051d-debc-47f6-abe2-97751aaadd7c)
 
-# PS: REFER PPT TO SEE THE FULL CONTENT
+# PS: REFER PPT FOR ALL PLOTS & INFERENCE
 
 
 
