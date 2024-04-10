@@ -6,7 +6,7 @@ import plotly.subplots as ps
 
 
 df=pd.read_excel("Sample Data for shortlisting.xlsx")
-"""
+
 # Gender distribution
 gender_distribution = df['Gender'].value_counts().reset_index()
 gender_distribution.columns = ['Gender', 'Count']
@@ -85,6 +85,7 @@ fig.show()
 """
 description=df.describe()
 
+
 fig = ps.make_subplots(rows=3, cols=2, subplot_titles=("Percentage of Household Income Invested",
                                                       "Sources of Awareness",
                                                       "Knowledge Levels",
@@ -120,7 +121,7 @@ fig.update_layout(height=1000, width=1200, title_text="Investment Behavior Insig
 
 # Show plot
 fig.show()
-"""
+
 import re    
 def extract_numeric_value1(value):
     if 'to' in value:
