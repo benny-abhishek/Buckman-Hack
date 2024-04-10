@@ -58,7 +58,7 @@ Chi-Square test is used to find the factor variables contributing to the best in
 
 ![image](https://github.com/benny-abhishek/Buckman-Hack/assets/121245162/8c14051d-debc-47f6-abe2-97751aaadd7c)
 
-# PS: REFER PPT TO SEE THE FULL CONTENT
+# PS: REFER PPT FOR ALL PLOTS & INFERENCE
 
 
 
